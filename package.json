@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "primevue": "^3.52.0"
+  },
+  "devDependencies": {
+    "nuxt-primevue": "^0.3.1"
+  }
+}
